@@ -6,7 +6,7 @@ git clone https://github.com/jshlee/gemMask
 cd gemMask
 ```
 
-You can use gemdetit.py to produce a list of strips to mask and save it to deadMask.dat or hotMask.dat
+You can edit the end of gemdetit.py to produce a list of strips to mask and save it to deadMask.dat or hotMask.dat
 ```bash
 python3 gemdetit.py
 ```
