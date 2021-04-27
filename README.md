@@ -2,6 +2,7 @@
 ```bash
 cmsrel CMSSW_11_2_4
 cd CMSSW_11_2_4/src
+cmsenv
 git clone https://github.com/jshlee/gemMask
 cd gemMask
 ```
